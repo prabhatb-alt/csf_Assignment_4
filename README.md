@@ -24,9 +24,6 @@ calculator/
 │ ├── overview.md
 │ ├── development_process.md
 │ └── future_improvements.md
-│── screenshots/
-├── screenshot1.png
-└── screenshot2.png
 ```
 
 ---
@@ -62,19 +59,19 @@ python calculator.py
 4. View the displayed result.
 5. Continue or exit.
 
-## Screenshots
 
 ## Documentation
 All extended documentation can be found inside the docs/ directory:
 
 ```
 overview.md – What the project does
-development_process.md – How it was built (step-by-step)
+development_process.md – How it was built
 future_improvements.md – Planned updates
 ```
 
 ## Author
-- Suhani Yadav
-- 2501410032
+- Prabhat Bhatia
+- 2501410006
 - B.Tech CSE Cyber Security
+
 - Computer Science and Fundamentals Assignment 3
