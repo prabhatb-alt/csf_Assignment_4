@@ -1,4 +1,4 @@
-print("----- !! CALCULATOR BY SUHANI YADAV  !! -----")
+print("----- !! CALCULATOR  !! -----")
 print("Choose an operation for calculation: ")
 
 print("1. Add")
@@ -33,4 +33,5 @@ try:
 except ValueError:
     print("Error: Please enter valid numbers!")
 except Exception as e:
+
     print("Unexpected error:", e)
